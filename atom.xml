@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[庖丁解牛]]></title>
+  <link href="http://michael-lu-cn.github.com/atom.xml" rel="self"/>
+  <link href="http://michael-lu-cn.github.com/"/>
+  <updated>2013-03-28T19:02:21+08:00</updated>
+  <id>http://michael-lu-cn.github.com/</id>
+  <author>
+    <name><![CDATA[michael]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Programmer]]></title>
+    <link href="http://michael-lu-cn.github.com/blog/2013/03/28/di-%5B%3F%5D-pian-githubbo-ke/"/>
+    <updated>2013-03-28T17:08:00+08:00</updated>
+    <id>http://michael-lu-cn.github.com/blog/2013/03/28/di-[?]-pian-githubbo-ke</id>
+    <content type="html"><![CDATA[<h3>As a programmer, if you need something, find it, not fit? create it!</h3>
+]]></content>
+  </entry>
+  
+</feed>

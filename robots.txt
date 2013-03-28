@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://michael-lu-cn.github.com/sitemap.xml 
